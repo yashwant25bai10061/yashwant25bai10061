@@ -13,7 +13,7 @@
 * **Logic & Math for AI and ML**
 
 ### Let's Connect:
-- **GitHub:** yashwant25bai10061
+- **GitHub:** https://github.com/yashwant25bai10061
 - **LinkedIn:** https://www.linkedin.com/in/yashwant-sonawane/
 
 <!--
